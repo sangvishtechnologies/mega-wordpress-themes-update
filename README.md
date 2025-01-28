@@ -18,7 +18,6 @@ src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/faceb
 
 Exciting news! 🚀 We’re thrilled to announce a major update to our e-commerce marketplace scripts, now packed with innovative features and advanced technologies. These upgrades are designed to captivate your customers and accelerate your business growth in the competitive marketplace. 
 
-<hr> 
 
 ### Table of Content 
 
