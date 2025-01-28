@@ -1,20 +1,22 @@
 <h1 align="center"> Exciting Updates for Our WordPress Marketplace Themes! </h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sangvishtech" target="blank"><img align="left" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/twitter.png" alt="sangvishtech" /></a>
-<a href="https://fb.com/sangvishtechnologies" target="blank"><img align="left" 
-src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/facebook.png" alt="sangvishtechnologies" /></a>
-<a href="https://www.linkedin.com/company/sangvish-technologies/" target="blank"><img align="left" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/linkedin.png" alt="sangvish" /></a>
-<a href="https://www.youtube.com/c/sangvish" target="blank"><img align="left" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/youtube.png" alt="sangvish" /></a>
-<a href="https://github.com/sangvishtechnologies" target="blank"><img align="left" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/github.png" alt="sangvishtechnologies" /></a>
-<a href="https://instagram.com/sangvishtech" target="blank"><img align="left" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/instagram.png" alt="sangvishtech"/></a>
+<h3 align="center">Connect with me:</h3>
 
+<p align="center">
+<a href="https://twitter.com/sangvishtech" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/twitter.png" alt="sangvishtech" /></a>
+<a href="https://fb.com/sangvishtechnologies" target="blank"><img align="center" 
+src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/facebook.png" alt="sangvishtechnologies" /></a>
+<a href="https://www.linkedin.com/company/sangvish-technologies/" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/linkedin.png" alt="sangvish" /></a>
+<a href="https://www.youtube.com/c/sangvish" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/youtube.png" alt="sangvish" /></a>
+<a href="https://github.com/sangvishtechnologies" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/github.png" alt="sangvishtechnologies" /></a>
+<a href="https://instagram.com/sangvishtech" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/instagram.png" alt="sangvishtech" /></a>
+
+</h2> 
 
 
 **Dear Entrepreneurs,**
 
-Exciting news! 🚀 We’re thrilled to announce a major update to our e-commerce marketplace scripts, now packed with innovative features and advanced technologies. These upgrades are designed to captivate your customers and accelerate your business growth in the competitive marketplace.
+Exciting news! 🚀 We’re thrilled to announce a major update to our e-commerce marketplace scripts, now packed with innovative features and advanced technologies. These upgrades are designed to captivate your customers and accelerate your business growth in the competitive marketplace. 
 
 <hr> 
 
